@@ -1,0 +1,129 @@
+[
+  {
+  	"title": "Is jQuery a programming language?",
+  	"radio": [
+      {
+    		"value": "yes"
+    	},
+      {
+    		"value": "no"
+  	  }
+    ]
+  },
+  {
+    "title": "Is JavaScript compiled or interpreted language?",
+    "radio": [
+      {
+        "value": "Interpreted"
+      },
+      {
+        "value": "Compiled"
+      }
+    ]
+  },
+  {
+    "title": "What is the main problem that Component Based Development solves on the level of UI?"
+  },
+  {
+    "title": "What is the main problem that Component Based Development solves on the application level?"
+  },
+  {
+    "title": "For what purpose would you use Node.js?"
+  },
+  {
+  	"title": "XML vs JSON",
+  	"radio": [
+      {
+    		"value": "XML"
+    	},
+      {
+    		"value": "JSON"
+  	  }
+    ]
+  },
+  {
+    "title": "What is so special about Babel?"
+  },
+  {
+    "title": "Are es2015 class declarations hoisted?",
+    "radio": [
+      {
+        "value": "Yes"
+      },
+      {
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "title": "What is a first class function in JavaScript?"
+  },
+  {
+    "title": "What is default value for 'position' property in CSS?",
+    "radio": [
+      {
+        "value": "Relative"
+      },
+      {
+        "value": "Absolute"
+      },
+      {
+        "value": "Static"
+      },
+      {
+        "value": "Fixes"
+      }
+    ]
+  },
+  {
+    "title": "What BEM stands for?"
+  },
+  {
+    "title": "What does ‘ex’ unit represents?"
+  },
+  {
+    "title": "What iis syntax for CSS variables?",
+    "radio": [
+      {
+        "value": "$width: 100px;"
+      },
+      {
+        "value": "@width: 100px;"
+      },
+      {
+        "value": "--width: 100px;"
+      }
+    ]
+  },
+  {
+    "title": "How to make <div> focusable?"
+  },
+  {
+    "title": "Is the following markup valid? <span>Hello <div>world</div></span>",
+    "radio": [
+      {
+        "value": "Yes"
+      },
+      {
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "title": "Why would you use HTML5 data-attributes other than for having custom valid attributes?"
+  },
+  {
+    "title": "Please name one example of web api."
+  },
+  {
+    "title": "Tabs or Spaces?",
+    "radio": [
+      {
+        "value": "Tabs"
+      },
+      {
+        "value": "Spaces"
+      }
+    ]
+  }
+]
